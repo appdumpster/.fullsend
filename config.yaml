@@ -46,3 +46,7 @@ repos:
         enabled: true
     workflows:
         enabled: true
+create_issues:
+    allow_targets:
+        orgs:
+            - appdumpster
